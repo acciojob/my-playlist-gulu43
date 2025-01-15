@@ -6,14 +6,15 @@ li{
 	list-style-type:none;
 }
 a{
+	/* target:_blank; */
 	text-decoration-line:none;
 }
 body{
 	background-color:rgb(204, 204, 204)
 }
-video,audio,div{
+.player_one,.player_two{
 	background-color: rgb(255, 255, 255);
-	padding:10px;
+	padding:15px;
 	border-radius:5px;
 }
 
